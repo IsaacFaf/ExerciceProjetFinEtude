@@ -1,9 +1,9 @@
 # Nom de l'exposition
-David Gardener & Greg Debicki
+
 Empty Vessels 
 ![Empty Vessels](medias/SatEmpty.jfif)
 # Qui
-
+David Gardener & Greg Debicki
 ![David Gardener](medias/David.jpg)
 ![Greg Debicki](medias/Greg.png)
 
@@ -13,7 +13,7 @@ Réalisé depuis 2019.
 
 Présenté uniquement entre le 26 avril 2022 aux 30 avril 2022
 # Où
-Sociétée des art technologiques
+Sociétée des art technologiques (https://sat.qc.ca/)
 1201 Boul St-Laurent
 ![Société des arts technologiques](medias/SAT.jfif)
 
