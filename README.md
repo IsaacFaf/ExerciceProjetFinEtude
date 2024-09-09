@@ -3,10 +3,10 @@
 Empty Vessels 
 ![Empty Vessels](medias/SatEmpty.jfif)
 # Qui
-David Gardener & Greg Debicki
+
 ![David Gardener](medias/David.jpg)
 ![Greg Debicki](medias/Greg.png)
-
+David Gardener & Greg Debicki
 
 # Quand
 Réalisé depuis 2019.
