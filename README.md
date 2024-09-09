@@ -55,8 +55,15 @@ Aspect TECHNIQUE COMPLET:
 # Médiagraphie
 Société des Arts Technologiques
 https://sat.qc.ca/fr/evenements/empty-vessels
+
 FAQ Oeuvre:
-https://sat.qc.ca/sites/default/files/empty_vessels_par_eric_cohen_-_effet_pogonat.mp3
+
+https://sat.qc.ca/sites/default/files/
+
+empty_vessels_par_eric_cohen_-_effet_pogonat.mp3 
+
 https://thelinknewspaper.ca/article/resonant-automata-take-centre-stage-at-the-sat 
+
 https://sat.qc.ca/fr/nouvelles/dossier-art-ia 
+
 https://panm360.com/interviews-panm360/empty-vessels-au-bord-du-naufrage/ 
