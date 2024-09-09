@@ -6,6 +6,7 @@ Empty Vessels
 
 ![David Gardener](medias/David.jpg)
 ![Greg Debicki](medias/Greg.png)
+
 David Gardener & Greg Debicki
 
 # Quand
