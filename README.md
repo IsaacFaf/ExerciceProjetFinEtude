@@ -45,12 +45,20 @@ Aspect TECHNIQUE COMPLET:
 * La régie détiens les consoles d'éclairage et de son avec un logiciel de montage. 
 * L'oeuvre tient compte de l'autonomie et l'improvisation de l'intelligence artificiel pour ce qui est de la musique qui s'armonise au visuel. 
 * Les projecteurs sont positionné stratégiquement pour prendre l'étendue du dôme sans faire de point mort et les superpositions sont mappé.
-![Violoncelle Composante](medias/oeuvre.jfif)
+
+Ceci est une vidéo:
+[![Video des composantes](medias/oeuvre.jfif)](https://www.youtube.com/watch?v=uvV0Lcgmr4g)
 
 # Appréciation
 * Démarcation importante des autres immersions par rapport à l'autonomie de l'intélligence artificielle. 
 * Fascination des calculs et génération visuel et auditif
 * Utilisation de vrai instrument plutôt qu'un synthétiseur
+
+Ceci est une video
+[![Watch the video](medias/SatEmpty.jfif)](https://www.youtube.com/watch?v=Dq42V8BQF7A)
+
+
+
 ![Oeuvre Appréciation](medias/ViolonEtImmersion.JPG)
 # Médiagraphie
 Société des Arts Technologiques
